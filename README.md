@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+# IMDB WEB CLONE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was completed using JavaScript and React.js.
+
+## Available Scripts
+This is an **IMDB** web clone website it is a simple frontend React project .
+
+## Features
+* you can filter the movies based on category.
+* Watch movies of your choice.
+
+## Running The Project
+### Live Link:()
+
 
 ## Available Scripts
 
