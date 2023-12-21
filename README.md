@@ -3,7 +3,7 @@
 This project was completed using JavaScript and React.js.
 
 ## Overview
-This is an **IMDB** web clone website it is a simple frontend React project .
+This is an **IMDB** web clone website it is a simple frontend React project.
 
 ## Features
 * you can filter the movies based on category.
@@ -19,8 +19,34 @@ This is an **IMDB** web clone website it is a simple frontend React project .
 
 
 ## Dependencies
-   *
+   * fortawesome/fontawesome-svg-core,
+   * fortawesome/free-solid-svg-icons,
+   * fortawesome/react-fontawesome",
+   * testing-library/jest-dom,
+   * testing-library/react,
+   * testing-library/user-event,
+   * react,
+   * react-dom,
+   * react-loading-skeleton,
+   * react-responsive-carousel,
+   * react-router-dom,
+   * react-scripts,
+   * web-vitals
+
+
+
+
+
+
+
+
+
+
+
+
+
+
    
 
-In the project directory, you can run:
+
 
